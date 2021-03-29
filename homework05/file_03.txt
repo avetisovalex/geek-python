@@ -1,0 +1,10 @@
+Ivanov 25000.4552
+Petrov 30000
+Sidorov 15000
+Gavrilov 10000.1
+Fedorov 11000
+Nikitin 18000
+Nikiforov 40000
+Borisov 55000
+Andreev 42000.41345
+Dorofeev 28000.45
